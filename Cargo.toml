@@ -1,0 +1,7 @@
+[package]
+name = "beatmap"
+version = "0.1.0"
+authors = ["Eike Siewertsen <eike@technocreatives.com>"]
+
+[dependencies]
+image = "0.18.0"
