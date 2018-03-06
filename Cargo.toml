@@ -5,3 +5,8 @@ authors = ["Eike Siewertsen <eike@technocreatives.com>"]
 
 [dependencies]
 image = "0.18.0"
+floating-duration = "0.1.1"
+mqttc = "0.1.4"
+mqtt3 = "0.1.4"
+netopt = "0.1.3"
+
